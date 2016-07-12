@@ -1,5 +1,5 @@
 package human;
 
-public Interface Human{
+public interface Human{
   public String getName();
 }
